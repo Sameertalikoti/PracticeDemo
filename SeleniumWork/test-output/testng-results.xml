@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-04T17:55:09 IST" name="Default suite" finished-at="2025-03-04T17:55:35 IST" duration-ms="26802">
+    <groups>
+    </groups>
+    <test started-at="2025-03-04T17:55:09 IST" name="Default test" finished-at="2025-03-04T17:55:35 IST" duration-ms="26802">
+      <class name="tests.DemoAutomation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.DemoAutomation@a38c7fe]" started-at="2025-03-04T17:55:09 IST" name="setUp" finished-at="2025-03-04T17:55:33 IST" duration-ms="24806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="setusername()[pri:0, instance:tests.DemoAutomation@a38c7fe]" started-at="2025-03-04T17:55:33 IST" name="setusername" finished-at="2025-03-04T17:55:34 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setusername -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.DemoAutomation@a38c7fe]" started-at="2025-03-04T17:55:34 IST" name="teardown" finished-at="2025-03-04T17:55:35 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.DemoAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
